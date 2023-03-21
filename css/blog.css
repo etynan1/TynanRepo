@@ -1,17 +1,19 @@
 html,body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   font-size: 14px;
-  background: #ffffff;
+  background: #8000a0;
 }
 .navbar.is-white {
-  background: #c0d4e0;
+  background: #039ffa;
 }
 .navbar-brand .brand-text {
   font-size: 1.11rem;
   font-weight: bold;
 }
 .hero-body
-{background-image: url(https://media.gq.com/photos/57672ef65db2e8cb18c9e9a8/64:25/w_2943,h_1149,c_limit/homer-simpson-driving.jpg);
+{background-image: url( https://pilbox.themuse.com/image.jpg?filter=antialias&h=385&opt=1&pos=top-left&prog=1&q=keep&url=https%3A%2F%2Fcms-assets.themuse.com%2Fmedia%2Flead%2F01212022-1047259374-coding-classes_scanrail.jpg&w=);  
+ 
+ 
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
