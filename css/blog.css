@@ -1,7 +1,7 @@
 html,body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   font-size: 14px;
-  background: #8000a0;
+  background: #3fc572;
 }
 .navbar.is-white {
   background: #039ffa;
@@ -12,8 +12,6 @@ html,body {
 }
 .hero-body
 {background-image: url( https://pilbox.themuse.com/image.jpg?filter=antialias&h=385&opt=1&pos=top-left&prog=1&q=keep&url=https%3A%2F%2Fcms-assets.themuse.com%2Fmedia%2Flead%2F01212022-1047259374-coding-classes_scanrail.jpg&w=);  
- 
- 
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
